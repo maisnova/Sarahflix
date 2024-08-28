@@ -1,4 +1,45 @@
-body {
-    color: white;
-    background: black;
-}
+<html lang="pt-BR">
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Aluraflix</title>
+</head>
+
+<body>
+    <header>ALURAFLIX</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>ENTENDA COMO CADA SHICHIBUKAI FOI MORTO/CAÇADO EM ONE PIECE - HISTÓRIA COMPLETA</h1>
+            <p>#one piece</p>
+        </div><iframe width="560" height="315" src="https://www.youtube.com/embed/9Qp9hVr45pU?si=lI-J9DIJCS8URtDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        <div>
+           
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Filmes e séries</h2>
+        <div class="categoria-videos">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/kH321bNW_mk?si=HVzzR5vOXkvODxPJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/-AkUeAr-4dg?si=SQKeOvH5dlGITbGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/uIT3OpzElxg?si=xscbgs4Ar4R_JEM9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9LCq7O0ebs0?si=w6R6H3-sS-PuorU5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/apCLNZ20ZKE?si=gmCkK_GONsLBfqDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
